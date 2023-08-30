@@ -1,4 +1,4 @@
-public class byte{
+public class Byte{
         public static void main(String[] args) {
             byte var1 = -128;
             byte var2 = -30;
