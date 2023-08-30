@@ -3,6 +3,6 @@ public class VariableInitialization{
             int value;
             int result = value + 10;
             System.out.println(result);
+            //변수가 초기화되지 않아 컴파일 에러가 발생함.
   }
 }
-//변수가 초기화되지 않아 컴파일 에러가 발생함.
