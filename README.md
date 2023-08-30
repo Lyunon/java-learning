@@ -10,4 +10,6 @@
 
 참고) 혼공자(혼자 공부하는 자바)
 
-``2023-08-30 Start``
+``2023-08-30 Java Learning Start``
+
+```2023-08-30 Variable finish```
