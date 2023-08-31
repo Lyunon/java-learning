@@ -13,4 +13,4 @@
 ## 기록
 ``2023-08-30 Java Learning Start``
 
-```2023-08-30 Variable Finish```
+```2023-08-30 Variable Finish > 2023-08-31 Basic type Finish```
