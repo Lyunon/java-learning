@@ -1,4 +1,4 @@
-public class OperationPromotion{
+public class OperationsPromotion{
     public static void main(String[] args){
         byte byteValue1 = 10;
         byte byteValue2 = 20;
