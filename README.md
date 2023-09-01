@@ -14,3 +14,5 @@
 ``2023-08-30 Java Learning Start``
 
 ```2023-08-30 Variable Finish > 2023-08-31 Basic Type, Type Conversion Finish > 2023-09-01 Variable & System Input/Output Finish (Variable & Type End)```
+
+```2023-09-01 Operator & Expression Finish```
