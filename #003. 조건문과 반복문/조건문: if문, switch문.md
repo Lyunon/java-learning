@@ -31,3 +31,16 @@ else if 블록의 마지막에는 else 블록을 추가할 수 있는데, 모든
 해당 부분의 손코딩은 IfElseIfElse.java, IfDice.java 파일을 참고하면 된다.
 
 ## switch문
+switch문은 if문과 마찬가지로 조건 제어문이다. 다만 switch문은 if문처럼 조건식이 true일 경우에 블록 내부의 실행문을 실행하는 것이 아닌, 변수가 어떤 값을 갖느냐에 따라 실행문이 선택된다.
+
+switch문은 변수의 값에 따라서 실행문이 결정되기 때문에 같은 기능의 if문보다 코드가 간결하다.
+
+switch문은 괄호 안의 변수 값과 동일한 값을 갖는 case로 가서 실행문을 실행한다. 만약 괄호 안의 변수 값과 동일한 값을 갖는 case가 없으면 default로 가서 실행문을 실행한다. default는 생략 가능하다.
+
+IfDice.java를 switch문으로 변형시킨 것은 Switch.java 파일을 참고하면 된다.
+
+case 끝에 break가 붙어 있는 이유는 다음 case를 실행하지 않고 switch문을 빠져나가기 위해서이다.
+
+break가 없다면 다음 case가 연달아 실행된다.
+
+해당 부분의 손코딩은 SwitchNoBreakCase 파일을 참고하면 된다.
