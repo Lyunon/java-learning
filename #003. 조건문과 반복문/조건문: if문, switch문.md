@@ -43,4 +43,4 @@ case 끝에 break가 붙어 있는 이유는 다음 case를 실행하지 않고 
 
 break가 없다면 다음 case가 연달아 실행된다.
 
-해당 부분의 손코딩은 SwitchNoBreakCase 파일을 참고하면 된다.
+해당 부분의 손코딩은 SwitchNoBreakCase.java 파일을 참고하면 된다.
