@@ -43,4 +43,7 @@ case 끝에 break가 붙어 있는 이유는 다음 case를 실행하지 않고 
 
 break가 없다면 다음 case가 연달아 실행된다.
 
-해당 부분의 손코딩은 SwitchNoBreakCase.java 파일을 참고하면 된다.
+해당 부분의 손코딩은 SwitchNoBreakCase.java, SwitchChar.java, SwitchString.java 파일을 참고하면 된다.
+
+## 조건문 부분을 끝내면서
+조건문이 C언어에서도 똑같은 개념이다보니 이해하기에는 그리 어렵지 않았다. 아마 반복문도 똑같지 않나 싶다.
