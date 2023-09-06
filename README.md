@@ -17,4 +17,4 @@
 
 ```2023-09-01 Operator & Expression Finish > 2023-09-05 Type of Operator Finish (Operator End)```
 
-```2023-09-06 If & Switch Finish```
+```2023-09-06 If & Switch, For & While & Do-While Finish (Condition & Repeat End)```
