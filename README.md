@@ -19,4 +19,4 @@
 
 ```2023-09-06 If & Switch, For & While & Do-While Finish (Condition & Repeat End)```
 
-```2023-09-08 Reference Type & Variable Finish```
+```2023-09-08 Reference Type & Variable Finish > 2023-09-09 Array Finish```
