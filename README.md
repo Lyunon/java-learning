@@ -10,7 +10,7 @@
 
 참고) 혼공자(혼자 공부하는 자바)
 
-## 기록
+## Record
 ``2023-08-30 Java Learning Start``
 
 ```2023-08-30 Variable Finish > 2023-08-31 Primitive Type, Type Conversion Finish > 2023-09-01 Variable & System Input/Output Finish (Variable & Type End)```
