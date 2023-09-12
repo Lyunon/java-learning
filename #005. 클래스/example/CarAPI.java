@@ -4,4 +4,4 @@ public class CarAPI{
         String color = "검정";
         int maxSpeed = 350;
         int speed;
-    }
+}
