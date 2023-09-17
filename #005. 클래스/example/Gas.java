@@ -1,5 +1,5 @@
 public class Gas {
-    public static void main(Stirng[] args) {
+    public static void main(String[] args) {
         GasAPI myCar = new Car();
 
         myCar.setGas(5); //GasAPI의 setGas() 메소드 호출
