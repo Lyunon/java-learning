@@ -11,6 +11,6 @@ public class Calculator {
         double result2 = myCalc.divide(x, y);
         System.out.println("result2: " + result2);
 
-        myCalc.poweroff();
+        myCalc.powerOff();
     }
 }
