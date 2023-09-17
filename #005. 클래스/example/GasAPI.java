@@ -15,7 +15,7 @@ public class GasAPI {
             return false; //false를 리턴
         }
         System.out.println("gas가 있습니다.");
-        return truel //true를 리턴
+        return true; //true를 리턴
     }
 
     void run() {
