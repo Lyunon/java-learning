@@ -21,4 +21,4 @@
 
 ```2023-09-08 Reference Type & Variable Finish > 2023-09-09 Array Finish > 2023-09-10 Enumeration Type Finish (Reference Type End)```
 
-```2023-09-12 Object-Oriented Programming, Field Finish > 2023-09-16 Constructor Finish```
+```2023-09-12 Object-Oriented Programming, Field Finish > 2023-09-16 Constructor Finish > 2023-09-23 Method Finish```
