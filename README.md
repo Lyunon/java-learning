@@ -23,4 +23,4 @@
 
 ```2023-09-12 Object-Oriented Programming, Field Finish > 2023-09-16 Constructor Finish > 2023-09-23 Method Finish > 2023-09-24 Instance Member & Static Member Finish > 2023-10-07 Package & Access Modifier Finish (Class End)```
 
-```2023-10-09 Inheritance Finish > 2023-10-14 Type conversion & Polymorphism Finish > 2023-10-21 Abstract Class Finish```
+```2023-10-09 Inheritance Finish > 2023-10-14 Type conversion & Polymorphism Finish > 2023-10-21 Abstract Class Finish (Inheritance End)```
