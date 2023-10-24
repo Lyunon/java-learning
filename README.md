@@ -25,4 +25,4 @@
 
 ```2023-10-09 Inheritance Finish > 2023-10-14 Type conversion & Polymorphism Finish > 2023-10-21 Abstract Class Finish (Inheritance End)```
 
-```2023-10-22 Interface Finish > 2023-10-24 Type conversion & Polymorphism Finish```
+```2023-10-22 Interface Finish > 2023-10-24 Type conversion & Polymorphism Finish (Interface End)```
