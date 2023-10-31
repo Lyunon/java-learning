@@ -28,3 +28,5 @@
 ```2023-10-22 Interface Finish > 2023-10-24 Type conversion & Polymorphism Finish (Interface End)```
 
 ```2023-10-28 Nested Class & Nested Interface Finish > 2023-10-31 Anonymous Object Finish (Nested Class & Nested Interface End)```
+
+```2023-10-31 Exception Class Finish```
